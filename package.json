@@ -1,0 +1,14 @@
+{
+  "name": "@kcjpop/algo",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "jest --verbose --watch src"
+  },
+  "devDependencies": {
+    "eslint": "7.5.0",
+    "eslint-config-prettier": "6.11.0",
+    "jest": "26.1.0"
+  }
+}
